@@ -3,8 +3,8 @@ title:       Sam Turrell
 email:       sam@samturrell.co.uk
 author:      Sam Turrell
 description: "The personal blog for Sam Turrell - Frontend Web Developer and general Nerd"
-baseurl:     "http://samturrell.github.io"
-url:         "http://samturrell.github.io"
+baseurl:     "https://samturrell.github.io"
+url:         "https://samturrell.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
