@@ -2,25 +2,25 @@
 title:       Sam Turrell
 email:       sam@samturrell.co.uk
 author:      Sam Turrell
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+description: "The personal blog for Sam Turrell - Frontend Web Developer and general Nerd"
+baseurl:     "http://samturrell.github.io"
+url:         "http://samturrell.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-49744331-3
 google_tag_manager:
 # Bing services
 bing_verification:
 
 # Optional features
 animated:             true
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_related_posts:   true
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -48,14 +48,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: SamTurrell
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: SamTurrellDev
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: sam-turrell-72a82540
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -65,12 +65,12 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
