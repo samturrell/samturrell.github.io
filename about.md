@@ -1,20 +1,14 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi there, I'm Sam Turrell, a Frontend web developer based in Scarborough, UK. I currently craft high quality bespoke products for Netsells, a digital agency based in York, UK.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I'm always interested in getting involved in the Open Source community, and have contributed to a number of projects already.
+ 
+To find out a bit more about me, and about this blog in general, check out my first [Blog Post](/2017/04/30/welcome-to-my-blog/).
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Feel free to get in touch via <a href="http://twitter.com/SamTurrellDev" target="_blank">Twitter</a>, or check out what I'm doing for the open-source community on my <a href="http://github.com/samturrell" target="_blank">Github</a>.
