@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      Welcome to my blog
+title:      Welcome to the blog
 date:       2017-04-30
 summary:    Get to know the man behind the page, and what to expect from future posts
+minutes:    1
 ---
 
 Hello, traveller, it seems you've stumbled upon my blog. Firstly, welcome! Secondly, you're a little early, there's not much to see here just yet, but like most I have high hopes and dreams of writing some quality blog posts for the community. How well this will play out I'm not sure, but here we are. It's a start, right?
