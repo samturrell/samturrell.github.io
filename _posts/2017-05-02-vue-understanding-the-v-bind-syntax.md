@@ -17,7 +17,7 @@ Let's take a standard link. `<a href="http://twitter.com/SamTurrellDev">My twitt
 
 However, when you prepend the `href` tag with `v-bind` syntax like so: `<a v-bind:href="user.twitter_link">My twitter</a>`, you end up with something very different. You see, when Vue recognises that you’re using this directive it will try and resolve the value from the current component/instance data. 
 
-In this example `user.profile_link` will try to resolve to `this.user.twitter_link` and, assuming you have an object in your data which matches this structure, it will insert the value of `twitter_link` into the `href` of your link. Great right?
+In this example `user.twitter_link` will try to resolve to `this.user.twitter_link` and, assuming you have an object in your data which matches this structure, it will insert the value of `twitter_link` into the `href` of your link. Great right?
 
 This is a very basic example obviously, and you’re able to pass many different types of data into a `v-bind` such as a literal object, a function, or any type of data your components prop allows. The takeaway here, is that v-bind will try and resolve whatever you pass into it, into a javascript expression. It’s like saying "Hey Vue, I’m passing you some data, can you work out the value for me and handle it? Cheers, mate."
 
