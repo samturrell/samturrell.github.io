@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Vue&#58; Understanding the bind syntax
-date:       2017-05-01
+date:       2017-05-02
 summary:    Knowing when and why to use the v-bind syntax in Vue.js
 minutes:    5
 ---
