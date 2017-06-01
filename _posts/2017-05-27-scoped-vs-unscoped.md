@@ -17,4 +17,4 @@ Again though, you are modifying global scope with anything you put in this tag, 
 
 UPDATE:
 
-While I was in the process of writing this article, [vue-loader 12.2.0](https://github.com/vuejs/vue-loader/releases/tag/v12.2.0) was released. This release brings support for “deep” selectors in scoped style tags. The deep selector is in the format `.element >>> .sub-component-element {}` and will compile down so that styles applied to the sub-component are outside the parent component scope. For example, the above would compile down to something like `.element[data-v-xxxxxxx] sub-component-element {}`.
+While I was in the process of writing this article, [vue-loader 12.2.0](https://github.com/vuejs/vue-loader/releases/tag/v12.2.0) was released. This release brings support for “deep” selectors in scoped style tags. The deep selector is in the format `.element >>> .sub-component-element {}` and will compile down so that styles applied to the sub-component are outside the parent component scope. For example, the above would compile down to something like `.element[data-v-xxxxxxx] .sub-component-element {}`.
