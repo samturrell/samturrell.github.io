@@ -19,7 +19,7 @@ A link:
 An API request:
 ```js
 axis.get(this.$routes.route('products.show', { id: 1337 }))
-	.then((response) => { /* Got Product */ });
+    .then((response) => { /* Got Product */ });
 ```
 
 To pull in the plugin, simply `yarn add vue-laroute` and follow the instructions in the documentation.
