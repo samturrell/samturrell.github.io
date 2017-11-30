@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Validating payment details in Vue
-date:       2017-11-28
+date:       2017-11-30
 summary:    A simple Vue plugin to validate card details
 ---
 
