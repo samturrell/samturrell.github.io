@@ -5,7 +5,7 @@ date:       2017-12-07
 summary:    The Laravel Certification exam is here and I'm taking it.
 ---
 
-A couple of years ago I was fortunate enough to attend Laracon EU 2016 in the fantastic city of Amsterdam with a bunch of the team from work. There were a fantastic range of talks throughout the duration of the event. I learnt a lot and had a great time in the process.
+A while back I was fortunate enough to attend Laracon EU 2016 in the fantastic city of Amsterdam with a bunch of the team from work. There were a fantastic range of talks throughout the duration of the event. I learnt a lot and had a great time in the process.
 
 One of the big announcements was from the big man himself, Taylor Otwell. The announcement was for a new formal process of assessing and accrediting developers and teams whom have demonstrated that they have the knowledge and ability to utilise the framework to craft web applications at the highest standard. This process is known as the [Laravel Certification Program](https://laravel.com/certification/).
 

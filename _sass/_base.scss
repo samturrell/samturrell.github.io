@@ -32,3 +32,33 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+
+.instagram-media {
+    width: 100% !important;
+}
+
+@media screen and (min-width: $viewport-medium) {
+    .media-50-width {
+        width: 50% !important;
+        margin-bottom: 1rem !important;
+    }
+    .media-33-width {
+        width: 33% !important;
+        margin-bottom: 1rem !important;
+    }
+    .media-centre {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .media-right {
+        float: right;
+        margin: 0 0 1rem 1rem;
+    }
+
+    .media-left {
+        float: left;
+        margin: 0 1rem 1rem 0;
+    }
+}
