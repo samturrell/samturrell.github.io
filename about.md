@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-Hi there, I'm Sam Turrell, a Frontend web developer based in Scarborough, UK. I currently craft high quality bespoke products for Netsells, a digital agency based in York, UK.
+Hi there, I'm Sam Turrell, a Frontend web developer based in York, UK. I currently craft high quality bespoke products for (Netsells)[https://netsells.co.uk].
 
 I'm always interested in getting involved in the Open Source community, and have contributed to a number of projects already.
  

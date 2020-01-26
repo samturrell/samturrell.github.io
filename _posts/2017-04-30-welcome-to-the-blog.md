@@ -8,7 +8,7 @@ minutes:    1
 
 Hello, traveller, it seems you've stumbled upon my blog. Firstly, welcome! Secondly, you're a little early, there's not much to see here just yet, but like most I have high hopes and dreams of writing some quality blog posts for the community. How well this will play out I'm not sure, but here we are. It's a start, right?
 
-So, a little about me. My name is Sam Turrell and I'm currently based in Scarborough on the East Coast of the UK. I am primarily a frontend web developer, but am also fairly well versed in backend development using the Laravel PHP framework. 
+So, a little about me. My name is Sam Turrell and I'm currently based in York, UK. I am primarily a frontend web developer, but am also fairly well versed in backend development using the Laravel PHP framework. 
 
 ![netsells](/images/netsells-logo.jpg)
 
