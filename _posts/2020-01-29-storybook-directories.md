@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      New package - Storybook Directories
-date:       2020-01-26
+date:       2020-01-29
 summary:    A simple module for generating your storybook story structure based on your directory structure.
 ---
 
